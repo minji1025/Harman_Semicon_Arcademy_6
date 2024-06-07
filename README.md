@@ -5,7 +5,7 @@
 
 ### Project : Full Custom IC One Chip Design
 * 4 bit Univerasl Shift Register
-* 자료 :https://github.com/minji1025/Full_custom_IC_one_Chip_Design
+* 자료 : https://github.com/minji1025/Full_custom_IC_one_Chip_Design
 
 
 ## Team project
@@ -14,4 +14,4 @@
   
 ### Project : Full Custom IC One Chip Design
 * One Chip Design
-* 자료 :https://github.com/minji1025/Full_custom_IC_one_Chip_Design
+* 자료 : https://github.com/minji1025/Full_custom_IC_one_Chip_Design
