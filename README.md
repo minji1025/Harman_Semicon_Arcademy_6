@@ -15,3 +15,7 @@
 ### Project : Full Custom IC One Chip Design
 * One Chip Design
 * 자료 : https://github.com/minji1025/Full_custom_IC_one_Chip_Design
+
+### Project : Pedestrain Safety Integrated Control System 
+* 자료 : https://github.com/minji1025/Pedestrain_Safety_Integrated_Control_System
+* Escalator에 대한 code
