@@ -1,4 +1,4 @@
-# Harman_Semicon_Arcademy_6
+# Harman Semicon Arcademy 6
 ## Individual project
 ### Project : 초음파 센서를 이용한 거리측정
 *  자료 :
