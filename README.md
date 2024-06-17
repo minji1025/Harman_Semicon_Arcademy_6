@@ -9,6 +9,9 @@
 
 
 ## Team project
+### Project : RISC-V CPU & Peripheral Design
+*자료 : https://github.com/minji1025/RISC_V_CPU_Peripheral_Desgin
+
 ### Project : Chronograph Design & Uart Verification 
 * 자료 : https://github.com/minji1025/chronograph_Design_UART_Verification
 
