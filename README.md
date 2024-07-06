@@ -10,6 +10,8 @@
 
 
 ## Team project
+### Project : Parking Guidance System
+*자료 : https://github.com/minji1025/Parking_Guidance_System
 
 ### Project : RISC-V CPU & Peripheral Design
 *자료 : https://github.com/minji1025/RISC_V_CPU_Peripheral_Desgin
